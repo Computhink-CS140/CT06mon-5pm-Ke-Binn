@@ -23,7 +23,7 @@ circle(100,200,20);
 
 
 
-
+}
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
