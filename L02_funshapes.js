@@ -20,14 +20,6 @@ circle(400,100,80);
 ellipse(200,300,80,50);
 
 
-
-
-
-
-
-
-
-}
   //hallenge 2: A face using circle() function
 
 
@@ -44,3 +36,11 @@ ellipse(200,300,80,50);
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
+
+
+
+
+
+
+}
+
