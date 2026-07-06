@@ -20,11 +20,12 @@ function draw() {
 // ellipse(300,250,80,50);
 // circle(250,170,50)
 // circle(350,170,50)
-rect(100,100,400,400)
-circle(200,200,50)
-circle(400,200,50)
-rect(250,300,100,150)
-ellipse(320,350,20,50)
+// rect(100,100,400,400)
+// circle(200,200,50)
+// circle(400,200,50)
+// rect(250,300,100,150)
+// ellipse(320,350,20,50)|
+
 
 
   //hallenge 2: A face using circle() function
