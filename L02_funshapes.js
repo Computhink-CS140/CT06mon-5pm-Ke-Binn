@@ -28,6 +28,7 @@ function draw() {
 ellipse(157,200,110,250)
 triangle(100,160,220,160,150,20)
 circle(160,200,50)
+rectangle(250,300,100)
 
 
 
