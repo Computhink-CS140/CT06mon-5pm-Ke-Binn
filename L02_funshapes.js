@@ -37,7 +37,7 @@ circle(330,160,30)
 fill(255,0,0)
 circle(240,220,40)
 circle(355,220,40)
-triangle(100)
+triangle(100,160,100,130,)
 
 
 
