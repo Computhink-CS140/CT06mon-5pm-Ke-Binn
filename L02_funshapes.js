@@ -29,7 +29,7 @@ function draw() {
 // triangle(100,160,220,160,150,20)
 // circle(160,200,50)
 // rect(110,300,100,50)
-c
+circle()
 
 
 
