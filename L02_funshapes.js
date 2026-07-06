@@ -23,7 +23,7 @@ function draw() {
 rect(100,100,400,400)
 circle(200,200,50)
 circle(400,200,50)
-rect(250,200,100,200)
+rect(250,200,100,150)
 
 
   //hallenge 2: A face using circle() function
