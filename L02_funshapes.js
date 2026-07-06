@@ -32,6 +32,7 @@ function draw() {
 circle(300,200,200)
 fill(255,255,0)
 circle(260,160,50)
+fill(255,255,255)
 
 
 
