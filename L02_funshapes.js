@@ -30,6 +30,7 @@ function draw() {
 // circle(160,200,50)
 // rect(110,300,100,50)
 circle(300,200,200)
+fill()
 
 
 
