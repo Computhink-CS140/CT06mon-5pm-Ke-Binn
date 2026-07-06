@@ -10,6 +10,7 @@ function draw() {
 ellipse(300,200,300,200);
 fill(255,0,0);
 ellipse(300,200,100,200);
+fill(0,255,0)
 ellipse(300,200,100,50);
 }
   //hallenge 2: A face using circle() function
