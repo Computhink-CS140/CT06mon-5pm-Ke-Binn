@@ -19,7 +19,7 @@ circle(200,100,80);
 circle(400,100,80);
 ellipse(300,250,80,50);
 circle(250,170,50)
-
+circle(250,230,50)
 
 
   //hallenge 2: A face using circle() function
