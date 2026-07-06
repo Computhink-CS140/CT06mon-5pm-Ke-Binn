@@ -7,23 +7,25 @@ function setup() {
 }
 function draw() {
   // Challenge 1: An eye using ellipse() function
-ellipse(300,200,300,200);
-fill(255,0,0);
-ellipse(300,200,100,200);
-fill(0,255,0);
-ellipse(300,200,100,50);
-fill(0,0,255);
+// ellipse(300,200,300,200);
+// fill(255,0,0);
+// ellipse(300,200,100,200);
+// fill(0,255,0);
+// ellipse(300,200,100,50);
+// fill(0,0,255);
+
+circle(300,200,200);
+circle(200,100,80);
+circle(400,100,80);
+ellipse(200,300,80,50);
 }
   //hallenge 2: A face using circle() function
-function draw() {
-circle(100,200,20);
 
 
 
 
 
 
-}
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
