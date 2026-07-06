@@ -15,7 +15,15 @@ ellipse(300,200,100,50);
 fill(0,0,255);
 }
   //hallenge 2: A face using circle() function
+function draw() {
 circle(100,200,20);
+
+
+
+
+
+
+
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
