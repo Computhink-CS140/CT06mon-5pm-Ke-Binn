@@ -15,7 +15,7 @@ ellipse(300,200,100,50);
 fill(0,0,255);
 }
   //hallenge 2: A face using circle() function
-CSSNumericValue()
+
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
