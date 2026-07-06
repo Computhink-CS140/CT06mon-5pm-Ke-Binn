@@ -26,6 +26,7 @@ function draw() {
 // rect(250,300,100,150)
 // ellipse(320,350,20,50)
 triangle(100,160,210,160,150,30)
+ellipse()
 
 
   //hallenge 2: A face using circle() function
