@@ -34,7 +34,8 @@ circle(300,200,200)
 fill(0,0,0)
 circle(260,160,30)
 circle(330,160,30)
-fill()
+fill(255,0,0)
+circle
 
 
 
