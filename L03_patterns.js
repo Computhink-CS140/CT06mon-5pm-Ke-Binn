@@ -1,23 +1,16 @@
-let colourval = 0
+let colourval = 0;
 
 
 
 
 function setup() {
-    createCanvas(200, 200);
+    createCanvas(600, 400);
     background(220);
     noLoop(); // Stops continuous drawing
   }
   
 function draw() {
-  for(let i=0; i<4; i++)
-    if(colourval %2 ===0){
-      fill(0)
-    }else{
-      fill(255);
-    }
-    circle(50+i*50,100,50);
-    colorval +=1
+  let
 
   // Task 1: Colour Gradient
 
