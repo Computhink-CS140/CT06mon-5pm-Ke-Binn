@@ -10,6 +10,7 @@ function setup() {
   }
   
 function draw() {
+  fill()
 
   // Task 1: Colour Gradient
 
