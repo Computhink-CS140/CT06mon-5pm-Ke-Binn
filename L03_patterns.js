@@ -9,7 +9,7 @@ function draw() {
   for(let i=10;i>0;i--) {
     fill(i * 50);
     noStroke();
-    rect(1+i*50,100,50,50)
+    rect(0+i*50,100,50,50)
 
   }
   // Task 1: Colour Gradient
