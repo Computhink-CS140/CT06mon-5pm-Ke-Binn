@@ -10,7 +10,7 @@ function setup() {
   }
   
 function draw() {
-  let
+  let circle
 
   // Task 1: Colour Gradient
 
