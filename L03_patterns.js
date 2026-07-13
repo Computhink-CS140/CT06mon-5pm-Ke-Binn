@@ -8,7 +8,7 @@ function draw() {
   // Recap 1: Repeating Circles
   for(let i=0;i<5;i++)
     circle(50 + i * 50,100,40);
-    fill
+    fill(i * 50)
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
