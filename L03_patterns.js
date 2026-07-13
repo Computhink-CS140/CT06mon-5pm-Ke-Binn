@@ -11,7 +11,7 @@ function setup() {
   
 function draw() {
   for(let i=0; i<4; i++)
-    if(colourval %2 ===0)
+    if(colourval %2 ===0){
       fill(0)
     
 
