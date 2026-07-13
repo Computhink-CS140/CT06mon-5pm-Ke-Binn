@@ -14,7 +14,8 @@ function draw() {
   let numCircles = 5;
   let totalWidth = numCircles * circleDiameter;
   let startX = (width - totalWidth) / 2 + circleDiameter / 2;
-  let startY = (width - totalWidth) / 2 + circleDiameter / 2;
+  let startY = (height - totalWidth) / 2 + circleDiameter / 2;
+  
 
   // Task 1: Colour Gradient
 
