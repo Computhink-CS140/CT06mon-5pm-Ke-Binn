@@ -16,6 +16,7 @@ function draw() {
     }else{
       fill(255);
     }
+    CSSNumericValue(50)
 
   // Task 1: Colour Gradient
 
