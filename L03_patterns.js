@@ -10,7 +10,7 @@ function setup() {
   }
   
 function draw() {
-  let circle
+  let circleDiameter = 30;
 
   // Task 1: Colour Gradient
 
