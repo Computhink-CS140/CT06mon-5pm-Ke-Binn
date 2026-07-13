@@ -5,7 +5,7 @@ function setup() {
   }
   
 function draw() {
-  
+  let colourValue
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
