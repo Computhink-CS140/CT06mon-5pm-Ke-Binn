@@ -16,7 +16,8 @@ function draw() {
     }else{
       fill(255);
     }
-    circle(50+i*50)
+    circle(50+i*50,100,50);
+    co
 
   // Task 1: Colour Gradient
 
