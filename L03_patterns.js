@@ -14,7 +14,7 @@ function draw() {
     if(colourval %2 ===0){
       fill(0)
     }else{
-      
+      fill(255);
     }
 
   // Task 1: Colour Gradient
