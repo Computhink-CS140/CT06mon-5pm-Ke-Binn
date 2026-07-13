@@ -12,7 +12,8 @@ function setup() {
 function draw() {
   for(let i=0; i<4; i++)
     if(colourval %2 ===0)
-      FileList(0)
+      fill(0)
+    
 
   // Task 1: Colour Gradient
 
