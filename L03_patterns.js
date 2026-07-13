@@ -9,6 +9,7 @@ function draw() {
   for(let i=0;i<10;i++) {
     fill(25 * i)
     square(5 + i * 40,85,30);
+    nostroke()
   }
   // Task 1: Colour Gradient
 
