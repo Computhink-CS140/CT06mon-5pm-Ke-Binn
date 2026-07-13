@@ -8,7 +8,7 @@ function draw() {
   // Recap 1: Repeating Circles
   for(let i=0;i<10;i++) {
     noStroke()
-    fill(25 * i)
+    fill(23 * i)
     square(5 + i * 40,85,30);
 
   }
