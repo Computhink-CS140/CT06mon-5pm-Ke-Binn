@@ -7,7 +7,7 @@ function setup() {
 function draw() {
   // Recap 1: Repeating Circles
   for(let i=10;i>0;i--) {
-    FileList(i * 50);
+    fill(i * 50);
     rect(50+i*50,100,50,50)
 
   }
