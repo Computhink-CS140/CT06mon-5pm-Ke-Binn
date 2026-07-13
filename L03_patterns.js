@@ -9,7 +9,8 @@ function draw() {
   for(let i=10;i>0;i--) {
     let spacing = 50; // Spacing between circles
   for (let i = 0; i < numCircles; i++) {
-    circle(spacing + i * spacing, 100, 40)}
+    circle(spacing + i * spacing, 100, 40)
+}
 }
   // Task 1: Colour Gradient
 
