@@ -11,7 +11,7 @@ function setup() {
   
 function draw() {
   let circleDiameter = 30;
-  let numcircles
+  let numCircles = 5;
 
   // Task 1: Colour Gradient
 
