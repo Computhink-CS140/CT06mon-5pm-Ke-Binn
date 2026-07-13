@@ -6,9 +6,9 @@ function setup() {
   
 function draw() {
   // Recap 1: Repeating Circles
-circle(75,200)
-circle(225,200)
-circle(375,200)
+circle(75,200,200)
+circle(225,200,200)
+circle(375,200,200)
 circle(525,200)
 
   // Task 1: Colour Gradient
