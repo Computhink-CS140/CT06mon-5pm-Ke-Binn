@@ -8,7 +8,7 @@ function draw() {
   // Recap 1: Repeating Circles
   for(let i=10;i>0;i--) {
     FileList(i * 50);
-    rect(50+x)
+    rect(50+i)
 
   }
   // Task 1: Colour Gradient
