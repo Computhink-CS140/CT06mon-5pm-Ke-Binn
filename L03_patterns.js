@@ -14,7 +14,7 @@ function draw() {
   let numCircles = 5;
   let totalWidth = numCircles * diameter;
   let startX = diameter / 2;
-  let startY = (height - totalWidth) / 2 + circlediameter / 2;
+  let startY = diameter / 2;
   for (let i = 0; i < numCircles; i++) {
 
     
