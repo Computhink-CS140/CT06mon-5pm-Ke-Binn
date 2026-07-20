@@ -14,3 +14,6 @@ function draw() {
         circle(mouseX, mouseY, 30);
     }
 }
+function mousePressed(){
+    
+}
