@@ -19,7 +19,7 @@ function draw() {
 
     
     let x = startX + i *circleDiameter;
-    ellipse(x, height / 1, circleDiameter, circleDiameter);
+    ellipse(x, height / 9, circleDiameter, circleDiameter);
   }
   }
 
