@@ -18,3 +18,10 @@ function draw() {
 function mousePressed(){
     shapeColor = 'red';
 }
+
+function mousePressed(){
+    shapeColor = 'red';
+}
+
+
+
