@@ -20,7 +20,7 @@ function mousePressed(){
 }
 
 function mouseReleased(){
-    shapeColor = ;
+    shapeColor = color();
 }
 
 
