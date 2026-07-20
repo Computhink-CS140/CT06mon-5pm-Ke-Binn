@@ -16,7 +16,7 @@ function draw() {
     // }
     fill(shapeColor)
 
-    triangle();
+    triangle(x1,y1,x2,y2,x3,y3);
 }
 function mousePressed(){
     shapeColor = color(random(255),random(255),random(255));
