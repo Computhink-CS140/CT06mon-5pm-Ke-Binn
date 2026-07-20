@@ -8,4 +8,8 @@ function setup() {
 
 
 
-function draw() {}
+function draw() {
+    for (let i = 0; i < 5; i++){
+        File;
+    }
+}
