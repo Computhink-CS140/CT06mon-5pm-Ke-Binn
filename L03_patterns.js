@@ -12,7 +12,7 @@ function setup() {
 function draw() {
   let circleDiameter = 30;
   let numCircles = 5;
-  let totalWidth = numCircles * circleDiameter;
+  let totalWidth = numCircles * diameter;
   let startX = (width - totalWidth) / 100 + circleDiameter / 2;
   let startY = (height - totalWidth) / 2 + circleDiameter / 2;
   for (let i = 0; i < numCircles; i++) {
