@@ -15,14 +15,14 @@ function draw() {
   let totalWidth = numCircles * circleDiameter;
   let startX = (width - totalWidth) / 2 + circleDiameter / 2;
   let startY = (height - totalWidth) / 2 + circleDiameter / 2;
-  for (let i = 0; i < numCircles; row++) {
-    let rowY = startY + (circleDiameter * row);
-    for (let i = 0; i < numCircles; i++) {
+  for (let i = 0; i < numCircles; i++) {
+
+    
     let x = startX + i *circleDiameter;
-    ellipse(x, rowY, circleDiameter, circleDiameter);
+    ellipse(x, height / 2, circleDiameter, circleDiameter);
   }
   }
-}
+
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
