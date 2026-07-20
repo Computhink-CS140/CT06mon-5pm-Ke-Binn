@@ -29,7 +29,7 @@ function mousePressed(){
 }
 
 function mouseReleased(){
-    shapeColor
+    shapeColor = 'white';
 }
 
 
