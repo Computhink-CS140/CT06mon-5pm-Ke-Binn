@@ -26,7 +26,10 @@ function mouseReleased(){
     shapeColor = color(random(255),random(255),random(255));
     x1
     y1
-    
+    x2
+    y2
+    x3
+    y3
 }
 
 
