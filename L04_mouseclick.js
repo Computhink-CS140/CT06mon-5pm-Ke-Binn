@@ -11,10 +11,10 @@ function setup() {
 
 function draw() {
     for (let i = 0; i < 5; i++) {
-        fill(shapeColour)
+        fill(shapeColor);
         circle(mouseX, mouseY, 30);
     }
 }
 function mousePressed(){
-    shapeColor = 'red'
+    shapeColor = 'red';
 }
