@@ -16,7 +16,7 @@ function draw() {
     // }
     fill(shapeColor)
     circle(200,200,300)
-    triangle(random(),)
+    triangle(random(),random(),)
 }
 function mousePressed(){
     shapeColor = random(0,255);
