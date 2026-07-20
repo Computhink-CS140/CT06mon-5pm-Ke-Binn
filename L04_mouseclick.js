@@ -19,7 +19,7 @@ function draw() {
 
     triangle(x1,y1,x2,y2,x3,y3);
 function mouseMoved(){
-    ellipse()
+    ellipse(mouseX,mouseY,20,10)
 }
 }
 function mousePressed(){
