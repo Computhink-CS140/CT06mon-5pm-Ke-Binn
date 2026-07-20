@@ -11,6 +11,6 @@ function setup() {
 function draw() {
     for (let i = 0; i < 5; i++){
         fill()
-        CSSNumericValue(30 + i)
+        circlei*4(30 + i*30,30+i*)
     }
 }
