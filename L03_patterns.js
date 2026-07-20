@@ -9,7 +9,7 @@ function setup() {
     noLoop(); // Stops continuous drawing
   }
   
-function draw() {
+//function draw() {
   let circleDiameter = 30;
   let numCircles = 5;
   let totalWidth = numCircles * circleDiameter;
