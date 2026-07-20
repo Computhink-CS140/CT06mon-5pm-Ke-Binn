@@ -10,7 +10,7 @@ function setup() {
 
 function draw() {
     for (let i = 0; i < 5; i++){
-        fill()
-        circlei*4(30 + i*30,30+i*30,30)
+        fill(0,0)
+        circlei*4(30 + i*30,30+i*30,30);
     }
 }
