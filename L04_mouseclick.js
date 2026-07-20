@@ -24,8 +24,8 @@ function mousePressed(){
 
 function mouseReleased(){
     shapeColor = color(random(255),random(255),random(255));
-    x1
-    y1
+    x1 = random(400);
+    y1 = random(400);
     x2
     y2
     x3
