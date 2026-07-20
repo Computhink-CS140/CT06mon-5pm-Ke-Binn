@@ -14,7 +14,8 @@ function draw() {
     //     fill(shapeColor);
     //     circle(mouseX, mouseY, 30);
     // }
-    t(shapeColor)
+    fill(shapeColor)
+    CSSNumericValue(200,200)
 }
 function mousePressed(){
     shapeColor = random(0,255);
