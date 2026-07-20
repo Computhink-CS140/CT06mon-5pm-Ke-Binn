@@ -19,7 +19,13 @@ function draw() {
     triangle();
 }
 function mousePressed(){
-    shapeColor = random(0,255);
+    shapeColor = color(random(255),random(255),random(255));
+    x1 = random(400);
+    y1 = random(400);
+    x2 = random(400);
+    y2 = random(400);
+    x3 = random(400);
+    y3 = random(400);
 }
 
 function mouseReleased(){
