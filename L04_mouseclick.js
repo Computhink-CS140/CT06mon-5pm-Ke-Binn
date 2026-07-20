@@ -11,6 +11,6 @@ function setup() {
 function draw() {
     for (let i = 0; i < 5; i++){
         fill(0,0 + i*25,0)
-        circlei*4(30 + i*30,30+i*30,30);
+        circle(30 + i*30,30+i*30,30);
     }
 }
