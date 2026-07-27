@@ -16,7 +16,7 @@ function draw() {
 function mouseDragged(){
     let size = random(5,20);
     fill(random(255),random(255),random(255));
-    CSSNumericValue(mouseX = random())
+    CSSNumericValue(mouseX = random(-20,20),mouseY)
 }
 
 
