@@ -14,7 +14,7 @@ function draw() {
     if (showCircle){
         circle(width / 2, height / 2, 100);
     if (showTriangle){
-        triangle()
+        triangle(50,50,60,60,90,90)
     }
     }
 }
