@@ -13,6 +13,8 @@ function setup() {
 function draw() {
 
 }
-function mouseDragged(){}
+function mouseDragged(){
+    let size = random
+}
 
 
