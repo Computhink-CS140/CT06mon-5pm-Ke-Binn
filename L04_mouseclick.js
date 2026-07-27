@@ -11,12 +11,8 @@ function setup() {
 
 
 function draw() {
+    rect(width/2,height/2,rectsize,rectsize);
+}
 
-}
-function mouseDragged(){
-    let size = random(5,20);
-    fill(random(255),random(255),random(255));
-    CSSNumericValue(mouseX = random(-20,20),mouseY + random(-20,20))
-}
 
 
