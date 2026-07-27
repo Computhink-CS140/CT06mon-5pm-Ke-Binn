@@ -2,7 +2,6 @@
 let rectsize=50;
 let showCircle=false;
 let showTriangle=false;
-
 function setup() {
     createCanvas(600, 400);
   
