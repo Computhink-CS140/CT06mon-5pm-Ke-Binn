@@ -11,29 +11,7 @@ function setup() {
 
 
 function draw() {
-    // for (let i = 0; i < 5; i++) {
-    //     fill(shapeColor);
-    //     circle(mouseX, mouseY, 30);
-    // }
-    fill(shapeColor)
 
-    triangle(x1,y1,x2,y2,x3,y3);
-function mouseMoved(){
-    ellipse(mouseX,mouseY,20,10)
-}
-}
-function mousePressed(){
-    shapeColor = color(random(255),random(255),random(255));
-    x1 = random(400);
-    y1 = random(400);
-    x2 = random(400);
-    y2 = random(400);
-    x3 = random(400);
-    y3 = random(400);
-}
-
-function mouseReleased(){
-    shapeColor = 'white';
 }
 
 
