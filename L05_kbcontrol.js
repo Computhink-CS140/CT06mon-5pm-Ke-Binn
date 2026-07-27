@@ -18,8 +18,8 @@ function draw() {
 function keyPressed() {
     if (key === 'c') {
         showCircle = !showCircle;
-    if (ket === 't') {
-
+    if (key === 't') {
+        
     }
     }
 
