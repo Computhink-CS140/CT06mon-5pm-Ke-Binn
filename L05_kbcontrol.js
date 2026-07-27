@@ -26,6 +26,6 @@ function keyPressed() {
     if (key === 't') {
         showTriangle = !showTriangle;
     }
-    
+    if (key === 's')
 
 }
