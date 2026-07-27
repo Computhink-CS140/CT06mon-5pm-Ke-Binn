@@ -13,7 +13,9 @@ function setup() {
 function draw() {
     rect(width/2,height/2,rectsize,rectsize);
 }
-function keyPressed()
+function keyPressed(){
+    rectsize = 100;
+}
 
 
 
