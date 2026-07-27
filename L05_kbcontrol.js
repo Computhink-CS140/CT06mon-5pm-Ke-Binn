@@ -10,5 +10,8 @@ function setup() {
   
 
 function draw() {
-    console.log("key:",key);
-    console.log("keyCode:",keyCode);}
+  }
+function keyPressed(){
+      console.log("key:",key);
+    console.log("keyCode:",keyCode);
+}
