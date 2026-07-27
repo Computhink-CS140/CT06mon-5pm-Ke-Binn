@@ -19,7 +19,7 @@ function keyPressed() {
     if (key === 'c') {
         showCircle = !showCircle;
     if (key === 't') {
-        showTriangle = !showT
+        showTriangle = !showTriangle
     }
     }
 
