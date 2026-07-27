@@ -15,7 +15,7 @@ function draw() {
 }
 function mouseDragged(){
     let size = random(5,20);
-    fill
+    fill(random)
 }
 
 
