@@ -22,6 +22,6 @@ function keyPressed(){
   }else{
     circleColor = 200
   }
-      console.log("key:",key);
+    console.log("key:",key);
     console.log("keyCode:",keyCode);
 }
