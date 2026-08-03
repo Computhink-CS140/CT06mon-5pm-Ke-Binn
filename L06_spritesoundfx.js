@@ -13,7 +13,7 @@ function draw(){
         x -=speed;
     }
     if(keyIsDown(RIGHT_ARROW)){
-        X+=SPEE
+        X+=speed;
     }
     
 }
