@@ -22,5 +22,6 @@ function draw(){
     }
     x = constrain(x,50,300)
     y = constrain(x,50,300)
+    if(keyis)
     square(x,y,50)
 }
