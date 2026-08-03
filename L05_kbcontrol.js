@@ -21,7 +21,7 @@ function keyPressed(){
   }else if(keyCode === 40){
     fill(255,255,255)
   }else{
-    circleColor = 200
+    
   }
     console.log("key:",key);
     console.log("keyCode:",keyCode);
