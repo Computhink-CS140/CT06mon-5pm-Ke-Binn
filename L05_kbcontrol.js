@@ -16,7 +16,7 @@ function draw() {
   circle(width/2,height/2,100)
   }
 function keyPressed(){
-  if(keyCode === 38){
+  if(keyCode === 82){
     circleColor = 255;
   }else if(keyCode === 40){
     circleColor = 0
