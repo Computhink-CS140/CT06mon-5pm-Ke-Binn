@@ -21,6 +21,6 @@ function draw(){
     if(keyIsDown(DOWN_ARROW)){
         y +=speed;
     }
-    x = constrain(x,50,300);
-    y = constrain(x,50,300);
+    x = constrain(x,50,300)
+    y = constrain(x,50,300)
 }
