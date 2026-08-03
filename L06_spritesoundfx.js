@@ -19,7 +19,7 @@ function draw(){
         y -=speed;
     }
     if(keyIsDown(RIGHT_ARROW)){
-        x +=speed;
+        y +=speed;
     }
     x = constrain(x,50,300)
     y = constrain(x,50,300)
