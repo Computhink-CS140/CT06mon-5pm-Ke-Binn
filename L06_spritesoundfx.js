@@ -24,6 +24,8 @@ function draw(){
     y = constrain(x,50,300)
     if(keyIsDown(32)){
         fill(50)
+    }else{
+        fi
     }
     square(x,y,50)
 }
