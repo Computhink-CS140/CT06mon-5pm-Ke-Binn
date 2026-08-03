@@ -2,7 +2,7 @@
 let rectsize=50;
 let showCircle=false;
 let showTriangle=false;
-
+let circleColor = 0
 function setup() {
     createCanvas(600, 400);
     
