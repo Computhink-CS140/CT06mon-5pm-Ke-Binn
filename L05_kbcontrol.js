@@ -18,9 +18,9 @@ function draw() {
 function keyPressed(){
   if(keyCode === 82){
     fill(255,0,0);
-  }else if(keyCode === 40){
+  }else if(keyCode === 87){
     fill(255,255,255)
-  }else{
+  }else if (keyCode === 71){
     
   }
     console.log("key:",key);
