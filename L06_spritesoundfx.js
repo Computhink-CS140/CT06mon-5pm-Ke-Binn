@@ -5,7 +5,7 @@ function setup() {
   }
 function draw(){
     background(220);
-    React(50,50,300,300)
-
+    rect(50,50,300,300)
+    
     
 }
