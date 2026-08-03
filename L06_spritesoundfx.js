@@ -10,10 +10,10 @@ function draw(){
     background(220);
     rect(50,50,300,300)
     if(keyIsDown(LEFT_ARROW)){
-        x -=speed;
+    x -=speed;
     }
     if(keyIsDown(RIGHT_ARROW)){
-        X+=speed;
+       x +=speed;
     }
     x = constrain(x,50,300)
     y = constrain(x,50,300)
