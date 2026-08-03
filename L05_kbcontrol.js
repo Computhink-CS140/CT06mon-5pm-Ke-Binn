@@ -19,7 +19,9 @@ function keyPressed(){
     circleColor = 255;
   }else if(keyCode === 40){
     circleColor = 0
-  }else{}
+  }else{
+    circleColor = 200
+  }
       console.log("key:",key);
     console.log("keyCode:",keyCode);
 }
