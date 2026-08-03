@@ -12,7 +12,7 @@ function setup() {
 function draw() {
   background(220)
   fill(circleColor,0,0);
-
+  circle
   }
 function keyPressed(){
       console.log("key:",key);
