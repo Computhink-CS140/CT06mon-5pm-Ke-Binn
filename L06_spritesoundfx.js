@@ -15,5 +15,5 @@ function draw(){
     if(keyIsDown(RIGHT_ARROW)){
         X+=speed;
     }
-    
+    x = 
 }
