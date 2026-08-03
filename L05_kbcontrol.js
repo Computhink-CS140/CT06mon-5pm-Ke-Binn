@@ -17,7 +17,7 @@ function draw() {
 function keyPressed(){
   if(keyCode === 38){
     circleColor = 255;
-  }
+  }else if(keyCode)
       console.log("key:",key);
     console.log("keyCode:",keyCode);
 }
