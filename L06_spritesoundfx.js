@@ -25,7 +25,7 @@ function draw(){
     if(keyIsDown(32)){
         fill(50)
     }else{
-        fi
+        fill(200)
     }
     square(x,y,50)
 }
