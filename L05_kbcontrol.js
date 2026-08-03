@@ -11,7 +11,7 @@ function setup() {
 
 function draw() {
   background(220)
-  FileList(circlec)
+  FileList(circleColor,0,0);
   }
 function keyPressed(){
       console.log("key:",key);
