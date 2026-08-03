@@ -19,11 +19,11 @@ function keyPressed(){
   if(keyCode === 82){
     fill(255,0,0);
   }else if(keyCode === 87){
-    fill(255,255,255)
+    fill(255,255,255);
   }else if (keyCode === 71){
-    fill(0,255,0)
+    fill(0,255,0);
   }else{
-    fill(255,255,0)
+    fill(255,255,0);
   }
     console.log("key:",key);
     console.log("keyCode:",keyCode);
