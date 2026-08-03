@@ -15,5 +15,6 @@ function draw(){
     if(keyIsDown(RIGHT_ARROW)){
         X+=speed;
     }
-    x = comsraint
+    x = comsraint(x,50,300)
+    y 
 }
