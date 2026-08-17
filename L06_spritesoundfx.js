@@ -1,4 +1,5 @@
 let soundEffect ,bgMusic, staticimage,wineffect,loseEffect;
+let
 function preload(){
     soundEffect = loadSound('assets/pop.mp3');
     bgMusic = loadSound('assets/bossaNova.mp3');
