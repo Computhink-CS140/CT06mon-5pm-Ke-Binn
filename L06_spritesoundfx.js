@@ -25,7 +25,7 @@ function keyPressed(){
     }
     if(keyCode === 40){
         wineffect.play()
-    }
+    }  
 }
 
 
