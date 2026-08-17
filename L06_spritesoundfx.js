@@ -16,8 +16,22 @@ function setup(){
 function draw(){
     background("lightblue")
     image(staticImage,0,0,110,133)
-    
+    if(keyIsDown(LEFT_ARROW)){
+        staticImageX -= staticSpeed
 }
+    if(keyIsDown(RIGHT_ARROW)){
+        staticImageX += staticSpeed
+}
+    if(keyIsDown(UP_ARROW)){
+        staticImageY -= staticSpeed
+}
+    if(keyIsDown(DOWN_ARROW)){
+        staticImageY += staticSpeed
+}
+if(key === '='){
+    staticSize +=1
+    staticSize >300? staticSize=300:staticSize
+}}
 function keyPressed(){
     if(keyCode === 32){
         soundEffect.play();
@@ -28,8 +42,6 @@ function keyPressed(){
     }
     if(keyCode === 40){
         wineffect.play()
-    }  
-}
-
-
+   
+    }
 
