@@ -4,6 +4,7 @@ function preload(){
     bgMusic = loadSound('assets/bossaNova.mp3');
     staticImage = loadImage('assets/pico-a.png');
     wineffect = loadSound('assets/Win.mp3');
+    loseEffect = loadSound('assets/Lose.mp3');
 }
 function setup(){
     createCanvas(400,400)
