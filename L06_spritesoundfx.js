@@ -13,9 +13,10 @@ function preload(){
 function setup(){
     createCanvas(400,400)
     bgMusic.play()
+    colorr = color(173,216,230)
 }
 function draw(){
-    background("lightblue")
+    background(colorr);
     image(staticImage,0,0,110,133)
     if(keyIsDown(LEFT_ARROW)){
         staticImageX -= staticSpeed
