@@ -31,7 +31,11 @@ function draw(){
 if(key === '='){
     staticSize +=1
     staticSize >300? staticSize=300:staticSize<0?staticSize =0:StaticSize
-}}
+}
+
+
+
+}
 function keyPressed(){
     if(keyCode === 32){
         soundEffect.play();
