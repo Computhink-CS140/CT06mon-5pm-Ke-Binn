@@ -34,7 +34,8 @@ if(key === '='){
     staticSize +=1
     staticSize >300? staticSize=300:staticSize<0?staticSize =0:StaticSize
 }
-
+    if(staticImageX < 25 || staticImageX>375 || staticImageY<25 ||staticImageY>375)
+        colorr
 
 
 }
