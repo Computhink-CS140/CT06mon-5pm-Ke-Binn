@@ -53,6 +53,7 @@ function setup(){
 function draw(){
     for(let i =0; i<10;i++){
         let color = i * 50
-        fill(color)
+        fill(color);
+        circle ()
     }
 }
