@@ -31,5 +31,5 @@ function keyPressed(){
     if(key === 'c' || key === 'C'){colorchange = !colorchange;}
     if(key === 't' || key === 'T'){trail = !trail}
     if(key === '+'){ballsize +=5}
-    
+    if(key === '-'){ballsize -=5}
 }
