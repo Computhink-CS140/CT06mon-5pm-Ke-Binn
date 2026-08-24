@@ -27,4 +27,5 @@ function draw(){
 }
 function keyPressed(){
     if(keycode ===UP_ARROW){ballspeedx *= 1.2; ballspeedy *=1.2;}
+    else if(kayCode ===DOWN_ARROW){ballspeedx *= 0.8; ballspeedy *=1.2;}
 }
