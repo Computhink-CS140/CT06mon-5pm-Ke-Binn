@@ -17,5 +17,5 @@ function draw(){
     if(bally + (ballsize/2) > height || bally < ballsize/2){
         ballspeedy = -ballspeedy
     }
-    
+function keyPressed(){}
 }
