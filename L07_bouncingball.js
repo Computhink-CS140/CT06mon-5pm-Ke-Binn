@@ -14,7 +14,7 @@ function draw(){
     if(bally = -200){
         ballspeedy = -ballspeedy
     }
-    if(ballx = -200){
+    if(ballx = -600){
         ballspeedy = -ballspeedy
     }
 }
