@@ -33,16 +33,16 @@
 //     if(key === '+'){ballsize +=5}
 //     if(key === '-'){ballsize -=5}
 // }
-let x = 50
-let y = 50
-function setup(){
-    createCanvas(600,600)
-    background(220)
-}
-function draw(){
-    for(let i =0; i<10;i++){
-        let color = i * 30;
-        fill(color);
-        circle(x + i*50,y + i*50,50)
-    }
-}
+// let x = 50
+// let y = 50
+// function setup(){
+//     createCanvas(600,600)
+//     background(220)
+// }
+// function draw(){
+//     for(let i =0; i<10;i++){
+//         let color = i * 35;
+//         fill(color);
+//         circle(x + i*50,y + i*50,50)
+//     }
+// }
