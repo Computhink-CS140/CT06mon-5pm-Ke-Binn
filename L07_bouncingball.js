@@ -54,6 +54,6 @@ function draw(){
     for(let i =0; i<10;i++){
         let color = i * 50
         fill(color);
-        circle ()
+        circle(x + i*50)
     }
 }
