@@ -34,3 +34,7 @@
 //     if(key === '-'){ballsize -=5}
 // }
 let x = 50
+let y = 50
+function setup(){
+    
+}
