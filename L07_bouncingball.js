@@ -11,10 +11,10 @@ function draw(){
     circle(ballx,bally,size);
     ballx += ballspeedx;
     bally += ballspeedy;
-    if(bally = -200){
+    if(bally = -100){
         ballspeedy = -ballspeedy
     }
-    if(ballx = -600){
+    if(ballx = -300){
         ballspeedy = -ballspeedy
     }
 }
