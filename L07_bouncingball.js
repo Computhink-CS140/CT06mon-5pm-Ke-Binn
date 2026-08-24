@@ -29,5 +29,6 @@ function keyPressed(){
     if(keycode ===UP_ARROW){ballspeedx *= 1.2; ballspeedy *=1.2;}
     else if(kayCode ===DOWN_ARROW){ballspeedx *= 0.8; ballspeedy *=0.8;}
     if(key === 'c' || key === 'C'){colorchange = !colorchange;}
-    if(key === 't' || key === 'T'){}
+    if(key === 't' || key === 'T'){trail = !trail}
+    
 }
