@@ -24,4 +24,4 @@ function draw(){
         y+=3
 }
 }
-circle()
+circle(300,200,30)
