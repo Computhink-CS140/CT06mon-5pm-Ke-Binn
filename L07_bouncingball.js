@@ -30,5 +30,5 @@ function keyPressed(){
     else if(kayCode ===DOWN_ARROW){ballspeedx *= 0.8; ballspeedy *=0.8;}
     if(key === 'c' || key === 'C'){colorchange = !colorchange;}
     if(key === 't' || key === 'T'){trail = !trail}
-    
+    if(key === '+'){ballsize}
 }
