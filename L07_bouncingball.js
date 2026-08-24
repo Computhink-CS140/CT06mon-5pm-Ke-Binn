@@ -26,5 +26,5 @@ function draw(){
     }
 }
 function keyPressed(){
-    if(keycode ===UP_ARROW){ball}
+    if(keycode ===UP_ARROW){ballspeedx *=1.2}
 }
