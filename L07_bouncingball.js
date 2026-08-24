@@ -11,5 +11,5 @@ function setup(){
 }
 function draw(){
     background(220);
-    C(ba)
+    circle(ba)
 }
