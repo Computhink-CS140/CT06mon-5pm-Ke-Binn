@@ -11,7 +11,7 @@ function draw(){
     circle(ballx,bally,size);
     ballx += ballspeedx;
     bally += ballspeedy;
-    if(ballx + (ballsize/2) >= width || ballx - (ballsize/2)){
+    if(ballx + (ballsize/2) >= width || ballx - (ballsize/2)<=0){
         ballspeedy = -ballspeedy
     }
     if(ballx = -300){
