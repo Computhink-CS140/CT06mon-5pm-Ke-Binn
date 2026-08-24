@@ -24,3 +24,4 @@ function draw(){
         y+=3
 }
 }
+circle()
