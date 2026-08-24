@@ -28,5 +28,5 @@ function draw(){
 function keyPressed(){
     if(keycode ===UP_ARROW){ballspeedx *= 1.2; ballspeedy *=1.2;}
     else if(kayCode ===DOWN_ARROW){ballspeedx *= 0.8; ballspeedy *=0.8;}
-    if(key === 'c' || key === 'C'){}
+    if(key === 'c' || key === 'C'){colorchange = !color}
 }
