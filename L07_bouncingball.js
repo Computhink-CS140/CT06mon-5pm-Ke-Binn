@@ -12,7 +12,7 @@ function draw(){
     ballx += ballspeedx;
     bally += ballspeedy;
     if(ballx + (ballsize/2) >= width || ballx - (ballsize/2)<=0){
-        ballspeedy = -ballspeedy
+        ballspeedx = -ballspeedx
     }
     if(bally + (ballsize/2) > height || bally < ballsize/2){
         ballspeedy = -ballspeedy
