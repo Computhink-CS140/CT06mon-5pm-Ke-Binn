@@ -1,6 +1,6 @@
 let ballx = 300
 let bally = 200
-let 
+let size = 30
 function setup(){
     createCanvas(600,400)
 }
