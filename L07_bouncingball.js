@@ -51,5 +51,7 @@ function setup(){
     background(0)
 }
 function draw(){
-    
+    for(let i =0; i<10;i++){
+        
+    }
 }
