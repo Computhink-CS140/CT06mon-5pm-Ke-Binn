@@ -39,6 +39,6 @@ function setup(){
     for(let i =0; i<10;i++){
         let color =i* 50;
         fill(color);
-        CSSNumericValue(x + i*50)
+        circle(x + i*50)
     }
 }
