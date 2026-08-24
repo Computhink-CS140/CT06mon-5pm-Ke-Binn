@@ -36,7 +36,7 @@
 let x = 50
 let y = 50
 function setup(){
-    
+    createCanvas
 }
 function draw(){
     for(let i =0; i<10;i++){
