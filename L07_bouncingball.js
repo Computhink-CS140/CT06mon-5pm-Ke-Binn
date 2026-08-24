@@ -10,5 +10,17 @@ function setup(){
     createCanvas(600,400)
 }
 function draw(){
-    
+    background(220);
+    if(keyIsDown(LEFT_ARROW)){
+        x -=3
+}
+    if(keyIsDown(RIGHT_ARROW)){
+        x +=3
+}
+    if(keyIsDown(UP_ARROW)){
+        y-=3
+}
+    if(keyIsDown(DOWN_ARROW)){
+        y+=3
+}
 }
