@@ -10,5 +10,5 @@ function draw(){
     background(220);
     circle(ballx,bally,size)
     ballx += ballspeedx
-    
+    bally += ballspeedy
 }
