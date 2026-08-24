@@ -46,4 +46,6 @@
 //         circle(x + i*50,y + i*50,50)
 //     }
 // }
-function setup()
+function setup(){
+    create
+}
