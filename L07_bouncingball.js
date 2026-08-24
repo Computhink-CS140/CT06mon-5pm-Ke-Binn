@@ -47,5 +47,6 @@
 //     }
 // }
 function setup(){
-    create
+    createCanvas(600,400)
+    
 }
