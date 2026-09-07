@@ -66,6 +66,9 @@ let storyText = [
     "",
     "May the code be with you"
 ];
+function setup(){
+    
+}
 
 
 
