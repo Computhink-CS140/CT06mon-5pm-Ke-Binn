@@ -84,7 +84,7 @@ function draw(){
     textAlign(CENTER)
     for(let i=0 ; i<storyText.length ; i++){
         let sentence = storyText[i];
-        text(sentence,width/2,yPod+i*25)
+        text(sentence,width/2,yPos+i*25)
         
     }
     yPos = yPos - 0.6
