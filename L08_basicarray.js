@@ -72,7 +72,7 @@ function setup(){
 }
 function draw(){
     background(0)
-    FileList()
+    fill(255,255)
 }
 
 
