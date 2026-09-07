@@ -46,14 +46,15 @@
 //         circle(x + i*50,y + i*50,50)
 //     }
 // }
-function setup(){
-    createCanvas(600,400)
-    background(0)
-}
-function draw(){
-    for(let i =0; i<10;i++){
-        let color = i * 50
-        fill(color);
-        circle(x + i*50,y + i*50,50)
-    }
-}
+// function setup(){
+//     createCanvas(600,400)
+//     background(0)
+// }
+// function draw(){
+//     for(let i =0; i<10;i++){
+//         let color = i * 50
+//         fill(color);
+//         circle(x + i*50,y + i*50,50)
+//     }
+// }
+
