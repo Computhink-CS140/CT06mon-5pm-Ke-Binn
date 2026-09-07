@@ -35,5 +35,5 @@ let foods = ["Pizza", "Burger", "sushi", "Tacos", "Pasta"]
 function setup(){
     createCanvas(400,400)
     textSize(16)
-    text("my favourite foods", 50,50)
+    text("my favourite foods:", 50,50)
 }
