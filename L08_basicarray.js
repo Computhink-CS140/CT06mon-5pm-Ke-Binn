@@ -34,5 +34,6 @@ let foods = ["Pizza", "Burger", "sushi", "Tacos", "Pasta"]
 
 function setup(){
     createCanvas(400,400)
+    textSize(16)
     
 }
