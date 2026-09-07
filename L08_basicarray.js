@@ -45,6 +45,7 @@ function draw(){
     background(220);
     
     text("my favourite foods; ",50,50)
+    
 }
 
 
