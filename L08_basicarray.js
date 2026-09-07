@@ -27,5 +27,6 @@ function setup(){
     textSize(16)
     background(220)
     text("My name is Ke Bin", 50,50)
+    text("My name is Ke Bin", 50,100)
 }
 
