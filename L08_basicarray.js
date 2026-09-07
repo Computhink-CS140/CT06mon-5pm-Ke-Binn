@@ -60,7 +60,8 @@ let storyText = [
     "It is a period of learning...",
     "Student have begun their journey",
     "into the world of p5.js.",
-    "With newfound powers"
+    "With newfound powers, they",
+    "cre"
 ]
 
 
