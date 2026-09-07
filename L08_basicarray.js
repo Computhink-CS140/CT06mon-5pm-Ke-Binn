@@ -75,6 +75,9 @@ function draw(){
     fill(255,255,0)
     textSize(24)
     textAlign(CENTER)
+    for(let i=0 ; i<storyText.length ; i++){
+        
+    }
 }
 
 
