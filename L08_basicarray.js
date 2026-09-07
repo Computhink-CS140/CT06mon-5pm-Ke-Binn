@@ -40,5 +40,5 @@ function setup(){
         text((i+1)+ "."+ foods[i] ,50,80 +i*20)
     }
 }
-for i in range
+
 
