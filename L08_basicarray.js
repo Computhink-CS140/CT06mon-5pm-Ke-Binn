@@ -56,7 +56,8 @@ let storyText = [
     "far away....",
     "EPISODE 1",
     "THE BEGINNING",
-    ""
+    "",
+    "It is a p"
 ]
 
 
