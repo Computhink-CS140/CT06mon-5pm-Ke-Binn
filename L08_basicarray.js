@@ -31,7 +31,7 @@
 //     text("My favourite activity is playing video games all day", 50,150)
 // }
 let foods = ["Pizza", "Burger", "Sushi", "Tacos", "Pasta","Rice"]
-let 
+let yPos=400
  function setup(){
      createCanvas(400,400)
      textSize(16)
