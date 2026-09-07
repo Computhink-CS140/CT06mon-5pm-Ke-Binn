@@ -78,7 +78,7 @@ function draw(){
     textAlign(CENTER)
     for(let i=0 ; i<storyText.length ; i++){
         let sentence = storyText[i];
-        text(i*25)
+        text(width/2,yPod+i*25)
         
     }
 }
