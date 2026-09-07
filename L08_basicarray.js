@@ -76,6 +76,7 @@ function draw(){
     textSize(24)
     textAlign(CENTER)
     for(let i=0 ; i<storyText.length ; i++){
+        let sentence
         text(storyText[i],50, 80+i*25)
     }
 }
