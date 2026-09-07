@@ -32,7 +32,7 @@
 // }
 let foods = ["Pizza", "Burger", "Sushi", "Tacos", "Pasta","Rice"]
 let yPos=400
- function setup(){
+function setup(){
      createCanvas(400,400)
      textSize(16)
      textAlign(LEFT)
@@ -40,8 +40,10 @@ let yPos=400
      for(let i = 0; i <foods.length; i++){
          text((i+1)+ "."+ foods[i] ,50,80 +i*25)
      }
- }
-
+}
+function draw(){
+    
+}
 
 
 
