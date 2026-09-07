@@ -91,14 +91,15 @@ function draw(){
     if (yPos < - storyText.length*25){
         yPos = height
     }
-// function mousePressed(){
-//     if(started == false){
-//         started = true
-//         userStartAudio();
-//         bgMusic.loop();
-//     }
-// }
 }
+ function mousePressed(){
+     if(started == false){
+         started = true
+         userStartAudio();
+         bgMusic.loop();
+     }
+ }
+
 
 
 
