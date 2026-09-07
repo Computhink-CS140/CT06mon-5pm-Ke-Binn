@@ -94,8 +94,8 @@ function draw(){
 function mousePressed(){
     if(started == false){
         started = true
-        userStartAudio()
-        bgMusic.loop()
+        userStartAudio();
+        bgMusic.loop();
     }
 }
 }
