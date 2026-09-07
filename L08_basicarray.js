@@ -63,7 +63,8 @@ let storyText = [
     "With newfound powers, they",
     "create amazing visuals and",
     "animations...",
-    ""
+    "",
+    
 ]
 
 
