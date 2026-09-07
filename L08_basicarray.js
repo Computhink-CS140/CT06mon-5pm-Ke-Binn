@@ -30,27 +30,27 @@
 //     text("I am 12 years old", 50,100)
 //     text("My favourite activity is playing video games all day", 50,150)
 // }
-let foods = ["Pizza", "Burger", "Sushi", "Tacos", "Pasta","Rice"]
-let yPos=400
-function setup(){
-     createCanvas(400,400)
-     textSize(16)
-     textAlign(LEFT)
-     text("my favourite foods:", 50,50)
-     for(let i = 0; i <foods.length; i++){
-         text((i+1)+ "."+ foods[i] ,50,80 +i*25)
-     }
-}
-function draw(){
-    background(220);
+// let foods = ["Pizza", "Burger", "Sushi", "Tacos", "Pasta","Rice"]
+// let yPos=400
+// function setup(){
+//      createCanvas(400,400)
+//      textSize(16)
+//      textAlign(LEFT)
+//      text("my favourite foods:", 50,50)
+//      for(let i = 0; i <foods.length; i++){
+//          text((i+1)+ "."+ foods[i] ,50,80 +i*25)
+//      }
+// }
+// function draw(){
+//     background(220);
     
-    text("my favourite foods; ",50,yPos)
-    for(let i = 0; i <foods.length; i++){
-        text((i+1 + "." + foods[i], 50, yPos + 30 +i*25))
-    }
-    yPos = yPos -1
+//     text("my favourite foods; ",50,yPos)
+//     for(let i = 0; i <foods.length; i++){
+//         text((i+1 + "." + foods[i], 50, yPos + 30 +i*25))
+//     }
+//     yPos = yPos -1
 
-}
+// }
 
 
 
