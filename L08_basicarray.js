@@ -76,7 +76,7 @@ function draw(){
     textSize(24)
     textAlign(CENTER)
     for(let i=0 ; i<storyText.length ; i++){
-        Text(storyText[i],)
+        text(storyText[i],)
     }
 }
 
