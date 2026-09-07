@@ -82,6 +82,9 @@ function draw(){
         
     }
     yPos = yPos - 0.6
+    if (yPos < - storyText.length*25){
+        yPos = height
+    }
 }
 
 
