@@ -32,4 +32,6 @@
 // }
 let foods = ["Pizza", "Burger", "sushi", "Tacos", "Pasta"]
 
-function setup(){}
+function setup(){
+    createCanvas(400,400)
+}
