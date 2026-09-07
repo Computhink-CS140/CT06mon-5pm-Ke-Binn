@@ -62,6 +62,7 @@ let storyText = [
     "into the world of p5.js.",
     "With newfound powers, they",
     "create amazing visuals and",
+    "animations...",
     ""
 ]
 
