@@ -15,5 +15,7 @@ function draw(){
     square(x,y,size)
     x=x+speed;
 
-    
+    if(x <= 0 || x>= width){
+        speed
+    }
 }
