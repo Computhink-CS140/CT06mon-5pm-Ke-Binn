@@ -35,6 +35,7 @@
  function setup(){
      createCanvas(400,400)
      textSize(16)
+     textAlign()
      text("my favourite foods:", 50,50)
      for(let i = 0; i <foods.length; i++){
          text((i+1)+ "."+ foods[i] ,50,80 +i*25)
