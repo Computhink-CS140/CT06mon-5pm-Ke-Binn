@@ -37,7 +37,7 @@ function setup(){
     textSize(16)
     text("my favourite foods:", 50,50)
     for(let i = 0; i < foods.length; i++){
-        text((i+1)+ ".",50,80 +i*20)
+        text((i+1)+ "."+ foods[3] ,50,80 +i*20)
     }
 }
 
