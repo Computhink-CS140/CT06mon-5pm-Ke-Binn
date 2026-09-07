@@ -14,5 +14,6 @@ function draw(){
     fill(r,g,b)
     square(x,y,size)
     x=x+speed;
+
     
 }
