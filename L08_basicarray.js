@@ -24,7 +24,7 @@
 // }
 function setup(){
     createCanvas(400,400)
-    textSize(16)
+    textSize(14)
     background(220)
     text("My name is Ke Bin", 50,50)
     text("I am 12 years old", 50,100)
