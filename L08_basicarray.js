@@ -51,7 +51,8 @@
 //     yPos = yPos -1
 
 // }
-let bgMusic
+let bgMusic;
+function preload()
 let storyText = [
     "A long time ago in a galaxy far,",
     "far away....",
