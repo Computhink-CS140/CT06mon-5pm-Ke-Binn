@@ -27,6 +27,6 @@ function setup(){
     textSize(16)
     background(220)
     text("My name is Ke Bin", 50,50)
-    text("I am 12 yea", 50,100)
+    text("I am 12 years old", 50,100)
 }
 
