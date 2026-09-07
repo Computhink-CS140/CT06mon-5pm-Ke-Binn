@@ -44,8 +44,12 @@ function setup(){
 function draw(){
     background(220);
     
-    text("my favourite foods; ",50,50)
-    
+    text("my favourite foods; ",50,yPos)
+    for(let i = 0; i <foods.length; i++){
+        
+    }
+
+
 }
 
 
