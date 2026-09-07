@@ -95,6 +95,7 @@ function mousePressed(){
     if(started == false){
         started = true
         userStartAudio()
+        bgMusic.loop()
     }
 }
 }
