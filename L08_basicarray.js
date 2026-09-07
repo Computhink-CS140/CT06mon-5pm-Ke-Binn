@@ -59,7 +59,8 @@ let storyText = [
     "",
     "It is a period of learning...",
     "Student have begun their journey",
-    "into the world of p5.j"
+    "into the world of p5.js.",
+    
 ]
 
 
