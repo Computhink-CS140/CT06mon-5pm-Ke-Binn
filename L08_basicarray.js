@@ -81,7 +81,7 @@ function draw(){
         text(sentence,width/2,yPod+i*25)
         
     }
-    yPos = 
+    yPos = yPos - 0.6
 }
 
 
