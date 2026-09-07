@@ -30,14 +30,14 @@
 //     text("I am 12 years old", 50,100)
 //     text("My favourite activity is playing video games all day", 50,150)
 // }
-let foods = ["Pizza", "Burger", "sushi", "Tacos", "Pasta"]
+let foods = ["Pizza", "Burger", "Sushi", "Tacos", "Pasta"]
 
 function setup(){
     createCanvas(400,400)
     textSize(16)
     text("my favourite foods:", 50,50)
     for(let i = 0; i < foods.length; i++){
-        text((i+1)+ "."+ foods[3] ,50,80 +i*20)
+        text((i+1)+ "."+ foods[i] ,50,80 +i*20)
     }
 }
 
