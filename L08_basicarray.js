@@ -32,3 +32,4 @@
 // }
 let foods = ["Pizza", "Burger", "sushi", "Tacos", "Pasta"]
 
+function setup(){}
