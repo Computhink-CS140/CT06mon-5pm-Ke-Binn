@@ -53,7 +53,7 @@
 // }
 let bgMusic;
 function preload(){
-    bgMusic = loadSound("assets/star_wars")
+    bgMusic = loadSound("assets/star_wars_theme")
 }
 let storyText = [
     "A long time ago in a galaxy far,",
