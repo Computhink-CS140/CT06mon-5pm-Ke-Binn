@@ -51,7 +51,8 @@
 //     yPos = yPos -1
 
 // }
-let story
+let storyText = []
+
 
 
 
