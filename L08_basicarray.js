@@ -48,7 +48,7 @@ function draw(){
     for(let i = 0; i <foods.length; i++){
         text((i+1 + "." + foods[i], 50, yPos + 30 +i*25))
     }
-    yPos = 
+    yPos = yPos -1
 
 }
 
