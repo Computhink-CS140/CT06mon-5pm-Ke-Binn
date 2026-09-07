@@ -46,7 +46,7 @@ function draw(){
     
     text("my favourite foods; ",50,yPos)
     for(let i = 0; i <foods.length; i++){
-        text((i+1 + "."))
+        text((i+1 + "." + foods[i], 50))
     }
 
 
