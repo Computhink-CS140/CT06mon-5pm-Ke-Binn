@@ -13,5 +13,5 @@ function draw(){
     background(220)
     fill(r,g,b)
     square(x,y,size)
-    
+    x=x+speed
 }
