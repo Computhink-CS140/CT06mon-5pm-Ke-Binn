@@ -28,10 +28,10 @@ function draw(){
     }
     if(started){
         text("Lycus",350,50)
+        text("Jaden",350,50)
         text("Lycus",350,50)
         text("Lycus",350,50)
         text("Lycus",350,50)
-
 
     }
 }
