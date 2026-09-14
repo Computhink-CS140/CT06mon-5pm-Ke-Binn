@@ -15,7 +15,7 @@ function setup(){
     createCanvas(400,400);
 }
 function draw(){
-    background(220);
+    background(rc,bc,gc);
     textSize(16);
     fill(r,g,b);
     textSize(32);
