@@ -6,7 +6,7 @@ let b = 0;
 let countdown = 5;
 let bgSound;
 function preload(){
-    bgSound = loadSound()
+    bgSound = loadSound('assets/')
 }
 function setup(){
     createCanvas(400,400);
