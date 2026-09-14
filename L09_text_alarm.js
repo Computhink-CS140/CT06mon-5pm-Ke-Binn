@@ -12,7 +12,7 @@ function draw(){
     textSize(16);
     fill(r,g,b);
     textSize(32);
-    text("Bounce!",x,200);
+    text("Bounce!",x,100);
     x += speed;
     if(x > width-120 || x<0){
         speed = -speed;
