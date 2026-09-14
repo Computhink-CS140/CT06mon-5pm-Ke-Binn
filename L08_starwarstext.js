@@ -37,5 +37,8 @@ function draw(){
         fill(255,255,0)
         textAlign(LEFT)
         text("My favourite food:",50,yPos - 30)
+        for(let i=0; i<favfood.length;i++){
+            text((i+1))
+        }
     }
 }
