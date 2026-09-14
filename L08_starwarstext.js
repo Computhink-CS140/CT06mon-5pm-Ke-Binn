@@ -51,3 +51,4 @@ function draw(){
         text("click here to start",250,250)
     }
 }
+function mousePressed()
