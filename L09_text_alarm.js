@@ -10,6 +10,7 @@ function draw(){
     text("Bounce!",x,200)
     x += speed
     if(x > width-120 || x<0){
-        
+        speed = -speed
+        r = random(255)
     }
 }
