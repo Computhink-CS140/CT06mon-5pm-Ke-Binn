@@ -46,6 +46,6 @@ function draw(){
             yPos  = height
         }
     }else{
-        fill
+        fill(225,225,0)
     }
 }
