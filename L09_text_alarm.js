@@ -12,7 +12,7 @@ function draw(){
     if(x > width-120 || x<0){
         speed = -speed
         r = random(255)
-        r = random(255)
-        
+        g = random(255)
+        b = random(255)
     }
 }
