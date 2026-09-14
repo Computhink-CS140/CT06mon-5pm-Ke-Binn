@@ -28,10 +28,10 @@ function draw(){
     }
     if(started){
         text("Lycus",350,50)
-        text("Jaden",350,50)
-        text("Keith",350,50)
-        text("Alexander",350,50)
-        text("Ke Bin",350,50)
+        text("Jaden",350,100)
+        text("Keith",350,150)
+        text("Alexander",350,200)
+        text("Ke Bin",350,250)
 
     }
 }
