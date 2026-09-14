@@ -8,7 +8,8 @@ let yPod = 500
 let lineGap = 30
 let bgSound
 let started = false
-let 
+let countdown = 5
+
 function preload(){
     bgSound = loadSound('assets/star_wars_there_8_bit.mp3')
 }
