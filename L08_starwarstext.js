@@ -28,9 +28,9 @@ function draw(){
     }
     if(started){
         text("Lycus",350,50)
-
-
-
+        text("Lycus",350,50)
+        text("Lycus",350,50)
+        text("Lycus",350,50)
 
 
     }
