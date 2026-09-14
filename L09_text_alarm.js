@@ -31,6 +31,7 @@ function draw(){
     textSize(32)
     textAlign(CENTER,CENTER)
     text(textString,width/2,height/2)
+    
 }
 function mousePressed(){
     interval = setInterval(updateCountdown,1000)
