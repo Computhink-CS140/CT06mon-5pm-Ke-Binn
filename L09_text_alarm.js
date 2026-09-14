@@ -5,5 +5,5 @@ function setup(){
 function draw(){
     background(220)
     textSize(16)
-    text
+    FileList(r,g,b)
 }
