@@ -7,5 +7,8 @@ let favfood = ["Potato chip","ramen","Pizza","Chicken Rice","skittles","Fried Ri
 let yPod = 500
 let lineGap = 30
 let bgSound
-let started = 
+let started = false
+function preload(){
+    
+}
 
