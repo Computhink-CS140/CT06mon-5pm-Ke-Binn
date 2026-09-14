@@ -1,6 +1,7 @@
 let x = 200
 let speed = 2
-
+let r = 0
+let g = 0
 function setup(){
     createCanvas(400,400)
 }
