@@ -6,4 +6,5 @@ function draw(){
     background(220)
     textSize(16)
     fill(r,g,b)
+    
 }
