@@ -11,4 +11,6 @@ let started = false
 function preload(){
     bgSound = loadSound('assets/star_wars_there_8_bit.mp3')
 }
-
+function setup(){
+    createCanvas
+}
