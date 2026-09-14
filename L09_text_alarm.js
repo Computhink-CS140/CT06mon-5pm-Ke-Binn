@@ -4,9 +4,9 @@ let r = 0;
 let g = 0;
 let b = 0;
 let countdown = 5;
-let bg
+let bgSound;
 function preload(){
-    bgSound
+    bgSound = loadSound()
 }
 function setup(){
     createCanvas(400,400);
