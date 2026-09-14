@@ -48,6 +48,6 @@ function draw(){
     }else{
         fill(225,225,0)
         textSixe(32)
-        text("click here ")
+        text("click here to start",250,250)
     }
 }
