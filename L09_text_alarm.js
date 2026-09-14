@@ -37,4 +37,6 @@ function updateCountdown(){
         clearInterval(interval)
     }
 }
-function alarm(){}
+function alarm(){
+    
+}
