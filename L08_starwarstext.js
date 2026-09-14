@@ -19,5 +19,5 @@ function setup(){
 function draw(){
     background(0)
     fill(r,g,b)
-    React(x,300,40,40)
+    rect(x,300,40,40)
 }
