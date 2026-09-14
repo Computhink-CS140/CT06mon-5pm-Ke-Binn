@@ -52,6 +52,8 @@ function draw(){
     }
 }
 function mousePressed(){
-    if(started === false)
+    if(started === false){
         started = true
+    }
+    
 }
