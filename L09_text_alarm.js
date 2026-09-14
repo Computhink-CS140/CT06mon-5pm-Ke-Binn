@@ -1,4 +1,4 @@
-let x = 200
+let x = 200;
 let speed = 2
 let r = 0
 let g = 0
