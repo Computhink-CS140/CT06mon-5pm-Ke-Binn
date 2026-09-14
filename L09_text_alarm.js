@@ -3,7 +3,7 @@ let speed = 2;
 let r = 0;
 let g = 0;
 let b = 0;
-let rc
+let rc=
 let countdown = 5;
 let bgSound;
 function preload(){
