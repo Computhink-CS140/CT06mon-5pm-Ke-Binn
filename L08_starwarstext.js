@@ -36,6 +36,6 @@ function draw(){
         textSize(20)
         fill(255,255,0)
         textAlign(LEFT)
-        text("My favourite food:",50,)
+        text("My favourite food:",50,yPos - 30)
     }
 }
