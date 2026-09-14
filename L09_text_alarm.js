@@ -28,5 +28,5 @@ function draw(){
     text(textString,width/2,height/2)
 }
 function mousePressed(){
-    interval
+    interval = setInterval
 }
