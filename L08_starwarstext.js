@@ -40,6 +40,7 @@ function draw(){
         for(let i=0; i<favfood.length;i++){
             text((i+1)+ "."+favfood.length[i],50,yPos+i *lineGap)
         }
+        yPos-=0.6
         
     }
 }
