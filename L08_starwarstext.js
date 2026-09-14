@@ -33,5 +33,7 @@ function draw(){
         text("Alexander",350,200)
         text("Ke Bin",350,250)
 
+        textSize(20)
+        
     }
 }
