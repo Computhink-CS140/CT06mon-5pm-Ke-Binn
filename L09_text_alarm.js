@@ -7,5 +7,5 @@ function draw(){
     textSize(16)
     fill(r,g,b)
     textsize(32)
-    text
+    text("Bounce!",x)
 }
