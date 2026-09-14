@@ -7,5 +7,6 @@ function draw(){
     textSize(16)
     fill(r,g,b)
     textsize(32)
-    text("Bounce!",x)
+    text("Bounce!",x,200)
+    x == speed
 }
