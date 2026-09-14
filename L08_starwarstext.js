@@ -20,4 +20,5 @@ function draw(){
     background(0)
     fill(r,g,b)
     rect(x,300,40,40)
+    
 }
