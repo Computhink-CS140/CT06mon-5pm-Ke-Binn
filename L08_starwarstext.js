@@ -38,7 +38,7 @@ function draw(){
         textAlign(LEFT)
         text("My favourite food:",50,yPos - 30)
         for(let i=0; i<favfood.length;i++){
-            text((i+1)+ "."+favfood.length[i],)
+            text((i+1)+ "."+favfood.length[i],50,yPos+i *lineGap)
         }
     }
 }
