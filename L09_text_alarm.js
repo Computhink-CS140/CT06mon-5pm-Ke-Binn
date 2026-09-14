@@ -20,5 +20,7 @@ function draw(){
         b = random(255);
     }
     let h = hour()
-    let m = 
+    let m = minute()
+    let s = second()
+    
 }
