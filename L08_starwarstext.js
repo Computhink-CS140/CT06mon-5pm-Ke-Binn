@@ -18,5 +18,6 @@ function setup(){
 
 function draw(){
     background(0)
-    FileList(r,g,b)
+    fill(r,g,b)
+    
 }
