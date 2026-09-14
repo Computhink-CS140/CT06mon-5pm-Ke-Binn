@@ -32,7 +32,7 @@ function draw(){
     textAlign(CENTER,CENTER)
     text(textString,width/2,height/2)
     textSize(16)
-    
+    text("CLICK ME TO START TIMER")
 }
 function mousePressed(){
     interval = setInterval(updateCountdown,1000)
