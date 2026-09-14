@@ -3,6 +3,7 @@ let speed = 2;
 let r = 0;
 let g = 0;
 let b = 0;
+let countdown = 5
 function setup(){
     createCanvas(400,400);
 }
