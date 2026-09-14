@@ -41,6 +41,9 @@ function draw(){
             text((i+1)+ "."+favfood.length[i],50,yPos+i *lineGap)
         }
         yPos-=0.6
-        
+
+        if(yPos< -favfood.length * lineGap){
+            
+        }
     }
 }
