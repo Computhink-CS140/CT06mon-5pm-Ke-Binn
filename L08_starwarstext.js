@@ -9,6 +9,6 @@ let lineGap = 30
 let bgSound
 let started = false
 function preload(){
-    bgSound = loadSound('assets')
+    bgSound = loadSound('assets/star_wars_there_')
 }
 
