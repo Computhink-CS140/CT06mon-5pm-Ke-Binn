@@ -21,5 +21,7 @@ function draw(){
     fill(r,g,b)
     rect(x,300,40,40)
     x += speed
-    
+    if(x < 0 || x >= width-40){
+        
+    }
 }
