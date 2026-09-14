@@ -35,7 +35,7 @@ function updateCountdown(){
         countdown -= 1
     }else{
         clearInterval(interval)
-        setIn
+        setInterval(alarm,500)
     }
 }
 function alarm(){
