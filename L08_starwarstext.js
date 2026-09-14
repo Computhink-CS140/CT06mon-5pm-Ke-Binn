@@ -45,6 +45,5 @@ function draw(){
         if(yPos< -favfood.length * lineGap){
             yPos  = height
         }
-        
-    }
+    }else{}
 }
