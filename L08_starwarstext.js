@@ -55,5 +55,5 @@ function mousePressed(){
     if(started === false){
         started = true
     }
-    
+    bgSound.loop();
 }
