@@ -47,5 +47,6 @@ function draw(){
         }
     }else{
         fill(225,225,0)
+        
     }
 }
