@@ -8,5 +8,8 @@ function draw(){
     fill(r,g,b)
     textsize(32)
     text("Bounce!",x,200)
-    x == speed
+    x += speed
+    if(x > width-120 || x<0){
+        
+    }
 }
