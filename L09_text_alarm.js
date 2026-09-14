@@ -34,6 +34,8 @@ function draw(){
     textSize(16)
     text("CLICK ME TO START TIMER",width/2,height/2 + 100)
     textSize(32)
+    text(countdown,width/2,height/2 + 50)
+    
 }
 function mousePressed(){
     interval = setInterval(updateCountdown,1000)
