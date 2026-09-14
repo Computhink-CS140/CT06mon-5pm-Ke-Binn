@@ -27,11 +27,11 @@ function draw(){
         b = random(255)
     }
     if(started){
-        text("Lycus",350,50)
-
-
-
-
         
+
+
+
+
+
     }
 }
