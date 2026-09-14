@@ -39,7 +39,7 @@ function updateCountdown(){
 }
 function alarm(){
     colors =random(255)
+    colors =random(255)
+    colors =random(255)
 
-
-    
 }
