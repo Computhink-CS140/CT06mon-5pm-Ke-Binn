@@ -34,6 +34,8 @@ function draw(){
         text("Ke Bin",350,250)
 
         textSize(20)
+        fill(255,255,0)
+        textAlign(LEFT)
         
     }
 }
