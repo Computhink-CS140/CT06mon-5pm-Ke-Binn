@@ -25,4 +25,5 @@ function draw(){
     text("Random word:" + scrambleword,300,125)
     textSize(16)
     text("Score" + score,300,250)
+    text("Streak")
 }
