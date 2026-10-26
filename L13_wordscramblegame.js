@@ -7,5 +7,6 @@ function setup(){
     input.position(245,175)
     input.size(110,30)
     input.style('font-size',"16px")
-    rescramblebutton = createButton("")
+    rescramblebutton = createButton("Rescramble")
+    
 }
