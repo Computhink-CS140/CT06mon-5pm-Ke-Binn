@@ -9,5 +9,5 @@ function setup(){
     input.style('font-size',"16px")
     rescramblebutton = createButton("Rescramble")
     rescramblebutton.position(120,175)
-    res
+    rescramblebutton.size9110,35
 }
