@@ -6,5 +6,5 @@ function setup(){
     input = createInput("Enter your wtv")
     input.position(245,175)
     input.size(110,30)
-    input.style
+    input.style('font-size')
 }
