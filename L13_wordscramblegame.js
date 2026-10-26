@@ -16,5 +16,5 @@ function setup(){
     submitbutton.position(375,175)
     submitbutton.size(100,35)
     submitbutton.style('font-size',"16px")
-    submitbutton.mousePressed(rescrambleWord)
+    submitbutton.mousePressed(checkAnswer)
 }
