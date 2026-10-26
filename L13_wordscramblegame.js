@@ -20,6 +20,6 @@ function setup(){
 }
 function draw(){
     background(220)
-    text("")
+    text("Word Scramble Game!")
     textSize(18)
 }
