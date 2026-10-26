@@ -4,4 +4,5 @@ function setup(){
     currentword = random(words)
     scrambleword = shuffleword(currentword)
     input = createInput("Enter your wtv")
+    
 }
