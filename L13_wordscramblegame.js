@@ -1,4 +1,4 @@
-let word = ["nathan", "jaden", "keith"];
+let word = ["nathan", "jaden", "keith",];
 let currentword, scrambleword, input, rescramblebutton, submitbutton;
 let score = 0;
 let streak = 0;
