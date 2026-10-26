@@ -5,7 +5,7 @@ let streak = 0
 let maxstreak = 0
 let message= ""
 function preload(){
-    winsound = loadSound('Assets/Win.mp3')
+    winsound = loadSound('assets/Win.mp3')
     losesound = loadSound('Assets/Lose.mp3')
     rescramblesound = loadSound('Assets/DunDunDunnn.mp3')
 }
