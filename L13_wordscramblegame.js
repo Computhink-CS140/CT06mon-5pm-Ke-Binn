@@ -22,5 +22,5 @@ function draw(){
     background(220)
     text("Word Scramble Game!",300,60)
     textSize(18)
-    text("Random")
+    text("Random word:" +)
 }
