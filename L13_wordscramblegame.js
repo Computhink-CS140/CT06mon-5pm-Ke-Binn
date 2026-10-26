@@ -19,5 +19,6 @@ function setup(){
     submitbutton.mousePressed(checkAnswer)
 }
 function draw(){
+    background(220)
     
 }
