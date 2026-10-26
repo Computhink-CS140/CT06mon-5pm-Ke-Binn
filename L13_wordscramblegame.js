@@ -13,7 +13,7 @@ function setup(){
     rescramblebutton.style('font-size',"16px")
     rescramblebutton.mousePressed(rescrambleWord)
     submitbutton = createButton("Submit")
-    submitbutton.position(120,175)
+    submitbutton.position(375,175)
     submitbutton.size(110,35)
     submitbutton.style('font-size',"16px")
     submitbutton.mousePressed(rescrambleWord)
