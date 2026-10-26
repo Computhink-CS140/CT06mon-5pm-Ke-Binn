@@ -5,5 +5,6 @@ function setup(){
     scrambleword = shuffleword(currentword)
     input = createInput("Enter your wtv")
     input.position(245,175)
-    
+    input.size(110,30)
+    input.style
 }
