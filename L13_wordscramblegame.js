@@ -12,7 +12,7 @@ function preload(){
 function setup(){
     createCanvas(600,400)
     currentword = random(word)
-    scrambleword = shuffleword(currentword)
+    scrambleword = shuffleWord(currentword)
     input = createInput("Enter your wtv")
     input.position(245,175)
     input.size(110,30)
