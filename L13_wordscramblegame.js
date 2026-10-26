@@ -23,5 +23,6 @@ function draw(){
     text("Word Scramble Game!",300,60)
     textSize(18)
     text("Random word:" + scrambleword,300,125)
-    text
+    textSize(16)
+    text()
 }
