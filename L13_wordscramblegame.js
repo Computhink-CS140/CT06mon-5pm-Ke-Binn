@@ -7,7 +7,7 @@ let message= ""
 function preload(){
     winsound = loadSound('assets/Win.mp3')
     losesound = loadSound('Assets/Lose.mp3')
-    rescramblesound = loadSound('Assets/DunDunDunnn.mp3')
+    rescramblesound = loadSound('assets/DunDunDunnn.mp3')
 }
 function setup(){
     createCanvas(600,400)
